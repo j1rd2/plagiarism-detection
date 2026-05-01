@@ -16,6 +16,9 @@ Ante esta problemática, el presente proyecto propone el desarrollo de un modelo
 
 ```text
 .
+│ 
+├── PlagioIA/
+│   └── Presentacion final
 ├── scripts/
 │   └── Libretas Jupyter con el código de los modelos y procesos ETL
 ├── reporte_final.pdf
