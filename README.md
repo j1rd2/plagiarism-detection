@@ -3,6 +3,7 @@
 ## Reporte final
 
 [Click aquí para ver el reporte final](./reporte_final.pdf)
+Enlace del repositorio: https://github.com/j1rd2/plagiarism-detection
 
 ## Abstract
 
