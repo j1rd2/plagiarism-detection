@@ -3,6 +3,7 @@
 ## Reporte final
 
 [Click aquí para ver el reporte final](./reporte_final.pdf)
+
 Enlace del repositorio: https://github.com/j1rd2/plagiarism-detection
 
 ## Abstract
@@ -22,7 +23,12 @@ Ante esta problemática, el presente proyecto propone el desarrollo de un modelo
 │   └── Presentacion final
 ├── scripts/
 │   └── Libretas Jupyter con el código de los modelos y procesos ETL
+├── datasets/
+│   └── Set de datos usados y generados para el entrenamiento y validación
+├── model_checkpoints/
+│   └── Checkpoint por epoch del modelo con sus scalers
 ├── reporte_final.pdf
 │   └── Reporte final del proyecto
 └── README.md
     └── Archivo de documentación principal del repositorio
+```
